@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/github-tests-go-diksqaio-workflow:e4c3fab561b2d00844c4fdae43de24c7bb8f58bc@sha256:6ae09353ad9457000692cc1d2439d303ad8dbcdefb55dda9849fb3bb7e017d09
+        - image: quay.io/rhtap_qe/github-tests-go-diksqaio-workflow:79eadad43a7bc612aafbd53c24ea30bf03f261d8@sha256:f6c761199b46ac69ac68e6cb293c1fbf33d6f54895dba0ea0cdb30b5739279c5
           name: container-image
